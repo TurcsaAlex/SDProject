@@ -1,0 +1,1 @@
+Invoice{id=0, costumer=Costumer{id=3, name='Fasole', email='aturcsa@gmail.com', phoneNumber='+40737018030'}, sale=Sale{id=68, products=[Product{id=2, name='Fasole', description='Fasole boabe', price=6.9, stock=915}Product{id=65, name='Spagete', description='Spaghete boabe', price=670.0, stock=993}], total=2030.7}}

@@ -1,0 +1,1 @@
+Invoice{id=0, costumer=Costumer{id=2, name='Costumer1', email='costumer@boabe.com', phoneNumber='+40737018030'}, sale=Sale{id=7, products=[Product{id=3, name='Spagete12', description='Spaghete boabe', price=670.0, stock=996}Product{id=5, name='Spagete12', description='Spaghete boabe', price=670.0, stock=969}], total=22110.0}}

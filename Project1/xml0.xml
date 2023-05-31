@@ -1,0 +1,18 @@
+<data>
+  <record>
+    <id>3</id>
+    <name>Spagete12</name>
+    <description>Spaghete boabe</description>
+    <price>670.0</price>
+    <stock>996</stock>
+    <sold>3</sold>
+  </record>
+  <record>
+    <id>5</id>
+    <name>Spagete12</name>
+    <description>Spaghete boabe</description>
+    <price>670.0</price>
+    <stock>969</stock>
+    <sold>30</sold>
+  </record>
+</data>
